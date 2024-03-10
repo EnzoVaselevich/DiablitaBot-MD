@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['593995668111', 'Guillermo', true],
+  ['5491130182250', 'Guillermo', true],
   ['573014953662', 'Sebastian', false],
 ] //Numeros de owner 
 
@@ -54,8 +54,8 @@ global.apiconversion = ["https://api.exchangerate-api.com"]
 global.conversiondocs = ["https://www.easymarkets.com/int/es/learn-centre/discover-trading/currency-acronyms-and-abbreviations/"]
 
 // Sticker WM
-global.packname = 'Kasuma-Bot'
-global.author = 'Kasuma-Bot 2.0'
+global.packname = 'DiablaBot-MD'
+global.author = 'DiablaBot 2.0'
 global.waig = 'Sígueme en Instagram\nhttps://www.instagram.com/traxnox/\n'
 global.wagp = 'https://chat.whatsapp.com/HvbqkYZlJzYLhczPhDteMt'
 global.wagit = 'https://github.com/ByTraxnox-X/KasumaBot-MD'
